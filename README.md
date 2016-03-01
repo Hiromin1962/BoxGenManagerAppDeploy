@@ -1,0 +1,4 @@
+# BoxGenManagerAppDeploy
+BoxGenManager application package folder
+ここには、Clientに配布できる形式のBoxGenManagerアプリのtgzファイルを配置します。
+エンドユーザーはこのファイルをダウンロードすることで利用可能です。
