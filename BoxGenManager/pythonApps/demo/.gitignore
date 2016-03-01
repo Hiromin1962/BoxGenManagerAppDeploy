@@ -1,0 +1,9 @@
+/ConfigLoader.pyc
+/LogUtils.pyc
+/__init__.pyc
+/auth.pyc
+/BoxGenDownloader.log
+/.DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
